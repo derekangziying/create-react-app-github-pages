@@ -8,5 +8,7 @@ A workflow with github actions was also created to auto deploy (no more manual d
 
 Workflow Idea: push to master, run deploy, update custom domain (the link above).
 
+![Alt Text](https://ibb.co/744s3Ww)
 
+![Alt Text](https://ibb.co/kyCFnnp)
 
